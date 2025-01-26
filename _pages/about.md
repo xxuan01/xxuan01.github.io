@@ -17,42 +17,85 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a second year master student in <a href="https://gewu-lab.github.io/">GeWu-Lab</a> at <a href="http://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence, Renmin University of China</a>. I am advised by Prof. <a href="https://dtaoo.github.io/">Di Hu</a>. I received my bachelor's degree from <a href="https://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering, Hunan University</a> in 2023. Now my research interests focus on multi-modal emboided AI. If you are interested in my research, please email me at <a href="mailto:fengruoxuan@ruc.edu.cn">fengruoxuan@ruc.edu.cn</a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
+- *2024.09*: &nbsp;🎉🎉 One paper accepted by CoRL, thanks to all co-authors! 
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**<font size=4>Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors</font>**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Ruoxuan Feng**, Jiangyu Hu, Wenke Xia, Tianci Gao, Ao Shen, Yuhao Sun, Bin Fang, Di Hu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+International Conference on Learning Representations (**ICLR**) 2025
+
+[\[Paper\]](https://openreview.net/pdf?id=XToAemis1h) \| [\[Code\]]() \| [\[Project\]]()
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2024</div><img src='images/corl24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**<font size=4>Play to the Score: Stage-Guided Dynamic Multi-Sensory Fusion for Robotic Manipulation</font>**
+
+**<font color=red>Oral Presentation</font>**
+
+**Ruoxuan Feng**, Di Hu, Wenke Ma, Xuelong Li
+
+Conference on Robot Learning (**CoRL**) 2024
+
+[\[Paper\]](https://arxiv.org/abs/2408.01366) \| [\[Code\]](https://github.com/GeWu-Lab/MS-Bot) \| [\[Project\]](https://gewu-lab.github.io/MS-Bot/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/eccv24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Diagnosing and Re-learning for Balanced Multimodal Learning</font>**
+
+Yake Wei, Siwei Li, **Ruoxuan Feng**, Di Hu
+
+European Conference on Computer Vision (**ECCV**) 2024
+
+[\[Paper\]](https://arxiv.org/abs/2407.09705) \| [\[Code\]](https://github.com/GeWu-Lab/Diagnosing_Relearning_ECCV2024)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Enhancing Multimodal Cooperation via Sample-level Modality Valuation</font>**
+
+Yake Wei, **Ruoxuan Feng**, Zihe Wang, Di Hu
+
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024
+
+[\[Paper\]](https://arxiv.org/abs/2309.06255) \| [\[Code\]](https://github.com/GeWu-Lab/Valuate-and-Enhance-Multimodal-Cooperation)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/icassp23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning</font>**
+
+Ruize Xu, **Ruoxuan Feng**, Shi-xiong Zhang, Di Hu
+
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**) 2023
+
+[\[Paper\]](https://arxiv.org/abs/2303.05338) \| [\[Code\]](https://github.com/GeWu-Lab/MMCosine_ICASSP23) \| [\[Project\]](https://gewu-lab.github.io/MMCosine/)
+</div>
+</div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - now*, Master, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2019.09 - 2023.06*, Undergraduate, College of Computer Science and Electronic Engineering, Hunan University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- *2023.06* Outstanding graduate of Hunan University. 
+- *2020.12* National Scholarship. 
