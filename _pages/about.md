@@ -34,7 +34,7 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a secon
 
 International Conference on Learning Representations (**ICLR**) 2025
 
-[\[Paper\]](https://openreview.net/pdf?id=XToAemis1h) \| [\[Code\]]() \| [\[Project\]]()
+[\[Paper\]](https://openreview.net/pdf?id=XToAemis1h) \| [\[Code\]](https://github.com/GeWu-Lab/AnyTouch) \| [\[Project\]](https://gewu-lab.github.io/AnyTouch/)
 </div>
 </div>
 
@@ -93,7 +93,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 </div>
 
 # 📖 Educations
-- *2023.06 - now*, Master, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2023.09 - now*, Master, Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2019.09 - 2023.06*, Undergraduate, College of Computer Science and Electronic Engineering, Hunan University.
 
 # 🎖 Honors and Awards
