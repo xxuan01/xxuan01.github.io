@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a second year master student in <a href="https://gewu-lab.github.io/">GeWu-Lab</a> at <a href="http://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence, Renmin University of China</a>. I am advised by Prof. <a href="https://dtaoo.github.io/">Di Hu</a>. I received my bachelor's degree from <a href="https://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering, Hunan University</a> in 2023. Now my research interests focus on multi-modal emboided AI. If you are interested in my research, please email me at <a href="mailto:fengruoxuan@ruc.edu.cn">fengruoxuan@ruc.edu.cn</a>.
+Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a second year master student in <a href="https://gewu-lab.github.io/">GeWu-Lab</a> at <a href="http://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence, Renmin University of China</a>. I am advised by Prof. <a href="https://dtaoo.github.io/">Di Hu</a>. I received my bachelor's degree from <a href="https://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering, Hunan University</a> in 2023. Now my research interests focus on multi-modal emboided AI. I'm looking for a PhD position in 2026 Fall. If you are interested in my research, please email me at <a href="mailto:fengruoxuan@ruc.edu.cn">fengruoxuan@ruc.edu.cn</a>.
 
 
 # 🔥 News
@@ -28,7 +28,7 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a secon
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<font size=4>Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors</font>**
+**<font size=4>AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors</font>**
 
 **Ruoxuan Feng**, Jiangyu Hu, Wenke Xia, Tianci Gao, Ao Shen, Yuhao Sun, Bin Fang, Di Hu
 
