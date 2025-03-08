@@ -21,10 +21,28 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a secon
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by CoRL, thanks to all co-authors! 
+- *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors! 
+- *2024.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
+- *2023.02*: &nbsp;🎉🎉 One paper accepted by ICASSP, thanks to all co-authors!
+
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Phoenix: A Motion-based Self-Reflection Framework for Fine-grained Robotic Action Correction</font>**
+
+Wenke Xia, **Ruoxuan Feng**, Dong Wang, Di Hu
+
+IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025
+
+[\[Paper\]]() \| [\[Code\]]() \| [\[Project\]]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
