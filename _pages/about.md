@@ -21,6 +21,7 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a secon
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 One paper accepted by SIGIR, thanks to all co-authors!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by CoRL, thanks to all co-authors! 
@@ -68,6 +69,19 @@ International Conference on Learning Representations (**ICLR**) 2025
 Conference on Robot Learning (**CoRL**) 2024
 
 [\[Paper\]](https://arxiv.org/abs/2408.01366) \| [\[Code\]](https://github.com/GeWu-Lab/MS-Bot) \| [\[Project\]](https://gewu-lab.github.io/MS-Bot/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/sigir25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>MGIPF: Multi-Granularity Interest Prediction Framework for Personalized Recommendation</font>**
+
+**Ruoxuan Feng\***, Zhen Tian\*, Qiushi Peng, Jiaxin Mao, Xin Zhao, Di Hu, Changwang Zhang
+
+International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**) 2025
+
+[\[Paper\]]() \| [\[Code\]]()
 </div>
 </div>
 
