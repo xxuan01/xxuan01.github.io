@@ -40,7 +40,7 @@ Wenke Xia, **Ruoxuan Feng**, Dong Wang, Di Hu
 
 IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2025
 
-[\[Paper\]]() \| [\[Code\]]() \| [\[Project\]]()
+[\[Paper\]](https://arxiv.org/abs/2504.14588) \| [\[Code\]](https://github.com/GeWu-Lab/Motion-based-Self-Reflection-Framework) \| [\[Project\]](https://xwinks.github.io/motion_instruction_for_correction/)
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Conference on Robot Learning (**CoRL**) 2024
 
 International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**) 2025
 
-[\[Paper\]]() \| [\[Code\]]()
+[\[Paper\]]() \| [\[Code\]](https://github.com/GeWu-Lab/MGIPF)
 </div>
 </div>
 
@@ -123,6 +123,23 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 [\[Paper\]](https://arxiv.org/abs/2303.05338) \| [\[Code\]](https://github.com/GeWu-Lab/MMCosine_ICASSP23) \| [\[Project\]](https://gewu-lab.github.io/MMCosine/)
 </div>
 </div>
+
+# 📝 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>Revisiting Pre-training in Audio-Visual Learning</font>**
+
+**Ruoxuan Feng**, Wenke Xia, Di Hu
+
+arXiv 2302.03533
+
+[\[Paper\]](https://arxiv.org/abs/2302.03533) \| [\[Code\]](https://github.com/GeWu-Lab/Revisiting-Pre-training-in-Audio-Visual-Learning) 
+</div>
+</div>
+
+# 💻 Internships
+- *2025.05 - now*, Beijing Academy of Artificial Intelligence (BAAI), Beijing.
 
 # 📖 Educations
 - *2023.09 - now*, Master, Gaoling School of Artificial Intelligence, Renmin University of China.
