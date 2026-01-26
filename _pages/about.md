@@ -21,6 +21,7 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a third
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
 - *2025.04*: &nbsp;🎉🎉 One paper accepted by SIGIR, thanks to all co-authors!
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
@@ -31,6 +32,19 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a third
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/iclr26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception</font>**
+
+**Ruoxuan Feng**, Yuxuan Zhou, Siyu Mei, Dongzhan Zhou, Pengwei Wang, Shaowei Cui, Bin Fang, Guocai Yao, Di Hu
+
+International Conference on Learning Representations (**ICLR**) 2026
+
+[\[Paper\]](https://openreview.net/pdf?id=ndilONnABZ) \| [\[Code\]]() \| [\[Project\]]()
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -125,6 +139,19 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 </div>
 
 # 📝 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robocoin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation</font>**
+
+**RoboCOIN Collaboration**
+
+arXiv 2511.17441
+
+[\[Paper\]](https://arxiv.org/pdf/2511.17441) \| [\[Code\]](https://github.com/FlagOpen/RoboCOIN) \| [\[Project\]](https://flagopen.github.io/RoboCOIN/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/arxiv23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
