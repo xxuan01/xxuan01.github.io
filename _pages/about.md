@@ -26,9 +26,6 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a third
 - *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by CoRL, thanks to all co-authors! 
-- *2024.07*: &nbsp;🎉🎉 One paper accepted by ECCV, thanks to all co-authors! 
-- *2024.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
-- *2023.02*: &nbsp;🎉🎉 One paper accepted by ICASSP, thanks to all co-authors!
 
 
 # 📝 Publications 
@@ -41,7 +38,7 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a third
 
 International Conference on Learning Representations (**ICLR**) 2026
 
-[\[Paper\]](https://openreview.net/pdf?id=ndilONnABZ) \| [\[Code\]]() \| [\[Project\]]()
+[\[Paper\]](https://arxiv.org/abs/2602.09617) \| [\[Code\]](https://github.com/GeWu-Lab/AnyTouch2) \| [\[Project\]](https://huggingface.co/xxuan01/AnyTouch2-Model) \| [\[Dataset\]](https://huggingface.co/collections/BAAI/touchd)
 </div>
 </div>
 
