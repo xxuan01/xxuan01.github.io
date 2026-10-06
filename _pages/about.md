@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a third-year master student and will continue pursuing a Ph.D. in <a href="https://gewu-lab.github.io/">GeWu-Lab</a> at <a href="http://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence, Renmin University of China</a>. I am advised by Prof. <a href="https://dtaoo.github.io/">Di Hu</a>. I received my bachelor's degree from <a href="https://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering, Hunan University</a> in 2023. Now my research interests focus on multi-modal emboided AI, enabling robots to perceive and interact with the physical world through vision, audition, touch, and force sensing. If you are interested in my research, please email me at <a href="mailto:fengruoxuan@ruc.edu.cn">fengruoxuan@ruc.edu.cn</a>.
+Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a first-year Ph.D. student in <a href="https://gewu-lab.github.io/">GeWu-Lab</a> at <a href="http://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence, Renmin University of China</a>, advised by Prof. <a href="https://dtaoo.github.io/">Di Hu</a>. I received my bachelor's degree from <a href="https://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering, Hunan University</a> in 2023, and my master's degree from <a href="http://ai.ruc.edu.cn/">Gaoling School of Artificial Intelligence, Renmin University of China</a>. My research interests focus on multi-modal embodied AI, enabling robots to perceive and interact with the physical world through vision, audition, touch, and force sensing. If you are interested in my research, please email me at <a href="mailto:fengruoxuan@ruc.edu.cn">fengruoxuan@ruc.edu.cn</a>.
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
-- *2025.04*: &nbsp;🎉🎉 One paper accepted by SIGIR, thanks to all co-authors!
-- *2025.02*: &nbsp;🎉🎉 One paper accepted by CVPR, thanks to all co-authors!
-- *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR, thanks to all co-authors!
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by CoRL, thanks to all co-authors! 
+- *2026.01*: &nbsp;🎉🎉 **[AnyTouch 2](https://gewu-lab.github.io/AnyTouch2/)** is accepted to ICLR 2026! The dataset, checkpoints, and codes are released!
+- *2025.04*: &nbsp;🎉🎉 **[MGIPF](https://github.com/GeWu-Lab/MGIPF)** is accepted to SIGIR 2025! The codes are released!
+- *2025.01*: &nbsp;🎉🎉 **[AnyTouch](https://gewu-lab.github.io/AnyTouch/)** is accepted to ICLR 2025! The dataset, checkpoints, and codes are released!
+- *2024.09*: &nbsp;🎉🎉 **[Play to the Score](https://gewu-lab.github.io/MS-Bot/)** is accepted to CoRL 2024 and selected for an Oral presentation! The codes are released!
 
 
 # 📝 Publications 
@@ -166,7 +165,8 @@ arXiv 2302.03533
 - *2025.05 - now*, Beijing Academy of Artificial Intelligence (BAAI), Beijing.
 
 # 📖 Educations
-- *2023.09 - now*, Master, Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2026.09 - now*, Ph.D., Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2023.09 - 2026.06*, Master, Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2019.09 - 2023.06*, Undergraduate, College of Computer Science and Electronic Engineering, Hunan University.
 
 # 🎖 Honors and Awards
