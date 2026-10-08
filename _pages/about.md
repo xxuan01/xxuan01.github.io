@@ -21,6 +21,7 @@ Hi! I’m Ruoxuan Feng (冯若轩, E-mail: fengruoxuan@ruc.edu.cn). I am a first
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🔥🔥 We release **[ROMA](https://gewu-lab.github.io/ROMA/)**, an LLM-Based System for Real-World Object-Centric Multi-Sensory Active Perception! One step towards active multi-sensory embodied agents!
 - *2026.01*: &nbsp;🎉🎉 **[AnyTouch 2](https://gewu-lab.github.io/AnyTouch2/)** is accepted to ICLR 2026! The dataset, checkpoints, and codes are released!
 - *2025.04*: &nbsp;🎉🎉 **[MGIPF](https://github.com/GeWu-Lab/MGIPF)** is accepted to SIGIR 2025! The codes are released!
 - *2025.01*: &nbsp;🎉🎉 **[AnyTouch](https://gewu-lab.github.io/AnyTouch/)** is accepted to ICLR 2025! The dataset, checkpoints, and codes are released!
@@ -135,6 +136,20 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 </div>
 
 # 📝 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ROMA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<font size=4>ROMA: LLM System for Real-World Object-Centric
+Multi-Sensory Active Perception</font>**
+
+**Ruoxuan Feng\***, Yutong Chen\*, Ruihua Song, Huan Yang, Zhongyuan Wang, Guocai Yao, Di Hu
+
+arXiv 2610.06955
+
+[\[Paper\]](https://arxiv.org/pdf/2610.06955) \| [\[Code\]](https://github.com/GeWu-Lab/ROMA) \| [\[Project\]](https://gewu-lab.github.io/ROMA/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/robocoin.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
